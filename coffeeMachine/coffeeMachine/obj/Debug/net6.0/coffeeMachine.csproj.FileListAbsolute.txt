@@ -1,0 +1,15 @@
+C:\Users\45222\Desktop\new\coffeeMachine\coffeeMachine\bin\Debug\net6.0\coffeeMachine.exe
+C:\Users\45222\Desktop\new\coffeeMachine\coffeeMachine\bin\Debug\net6.0\coffeeMachine.deps.json
+C:\Users\45222\Desktop\new\coffeeMachine\coffeeMachine\bin\Debug\net6.0\coffeeMachine.runtimeconfig.json
+C:\Users\45222\Desktop\new\coffeeMachine\coffeeMachine\bin\Debug\net6.0\coffeeMachine.dll
+C:\Users\45222\Desktop\new\coffeeMachine\coffeeMachine\bin\Debug\net6.0\coffeeMachine.pdb
+C:\Users\45222\Desktop\new\coffeeMachine\coffeeMachine\obj\Debug\net6.0\coffeeMachine.csproj.AssemblyReference.cache
+C:\Users\45222\Desktop\new\coffeeMachine\coffeeMachine\obj\Debug\net6.0\coffeeMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45222\Desktop\new\coffeeMachine\coffeeMachine\obj\Debug\net6.0\coffeeMachine.AssemblyInfoInputs.cache
+C:\Users\45222\Desktop\new\coffeeMachine\coffeeMachine\obj\Debug\net6.0\coffeeMachine.AssemblyInfo.cs
+C:\Users\45222\Desktop\new\coffeeMachine\coffeeMachine\obj\Debug\net6.0\coffeeMachine.csproj.CoreCompileInputs.cache
+C:\Users\45222\Desktop\new\coffeeMachine\coffeeMachine\obj\Debug\net6.0\coffeeMachine.dll
+C:\Users\45222\Desktop\new\coffeeMachine\coffeeMachine\obj\Debug\net6.0\refint\coffeeMachine.dll
+C:\Users\45222\Desktop\new\coffeeMachine\coffeeMachine\obj\Debug\net6.0\coffeeMachine.pdb
+C:\Users\45222\Desktop\new\coffeeMachine\coffeeMachine\obj\Debug\net6.0\coffeeMachine.genruntimeconfig.cache
+C:\Users\45222\Desktop\new\coffeeMachine\coffeeMachine\obj\Debug\net6.0\ref\coffeeMachine.dll

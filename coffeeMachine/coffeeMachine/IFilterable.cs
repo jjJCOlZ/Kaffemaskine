@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace coffeeMachine
+{
+    public interface IFilterable
+    {
+        void InsertFilter(); // Isætter filter
+    }
+}
